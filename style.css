@@ -1,0 +1,51 @@
+*{
+    text-align: center;
+    font-family: 'Lobster Two';
+    margin: 0;
+    background-color: rgb(28, 28, 66);
+}
+
+h1{
+    margin-top: 5%;
+    font-size: 7rem;
+    color: white;
+    font-weight: 700;
+    
+}
+
+button{
+    border: 0;
+}
+
+.drumm{
+    font-family: sans-serif;
+    
+    outline: none;
+    margin:13% 40px 0px ;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    color: rgb(177, 6, 77);
+    font-size: 4rem;
+    border: 10px solid rgb(69, 60, 119);
+    border-radius: 15px;
+    font-weight: 800; 
+
+}
+
+.drumm:hover{
+    transition: 0.3s;
+    color: white;
+    background-color:rgb(177, 6, 77);
+}
+
+body{
+    margin: 3%;
+}
+
+
+footer{
+ margin-top: 12%;
+ color: white;
+ font-size: 2rem;
+}
