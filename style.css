@@ -49,3 +49,8 @@ footer{
  color: white;
  font-size: 2rem;
 }
+
+.pressed{
+    box-shadow: 0 3px 4px 0 #CBEDF3;
+    opacity: 0.5;
+}
